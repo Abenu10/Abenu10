@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abenu10
+- 👋 Hi, I’m Abenezer
 - 👀 I’m interested in Machine learning,web development 
 - 🌱 I’m currently learning Ml and web dev
 - 💞️ I’m looking to collaborate on ...
