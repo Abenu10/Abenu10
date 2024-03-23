@@ -1,3 +1,4 @@
+![Banner Image](https://res.cloudinary.com/dptx5wjus/image/upload/v1711181401/post-images/git_banner_y1c0vl.png)
 
 <h1 align="center">
     Hi 
@@ -5,7 +6,7 @@
     I'm Abenezer
 </h1>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
-![Banner Image](https://res.cloudinary.com/dptx5wjus/image/upload/v1711181401/post-images/git_banner_y1c0vl.png)
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenu10&label=Profile%20views&color=0e75b6&style=flat" alt="abenu10" /> </p> -->
 
