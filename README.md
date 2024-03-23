@@ -1,4 +1,4 @@
-![Banner Image](https://res.cloudinary.com/dptx5wjus/image/upload/v1711181401/post-images/git_banner_y1c0vl.png)
+![Banner Image](https://res.cloudinary.com/dptx5wjus/image/upload/v1711183287/post-images/Dani_Martinez_3_o82u1u.png)
 
 <h1 align="center">
     Hi 
