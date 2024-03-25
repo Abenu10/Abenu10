@@ -22,11 +22,7 @@
 
 - 📫 How to reach me **Abenezerteshome.77z@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abeni_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abeni_t" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abenezer-teshome-679546215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abenezer-teshome-679546215" height="30" width="40" /></a>
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -51,6 +47,25 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 </p>
+
+
+<table>
+    <tr>
+        <td valign="top" width="50%">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abeni_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abeni_t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abenezer-teshome-679546215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abenezer-teshome-679546215" height="30" width="40" /></a>
+</p>
+        </td>
+        <td valign="top" width="50%">
+
+![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+        </td>
+    </tr>
+</table>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenu10&show_icons=true&locale=en&layout=compact" alt="abenu10" /></p> -->
 
 # 📊 GitHub Stats:
